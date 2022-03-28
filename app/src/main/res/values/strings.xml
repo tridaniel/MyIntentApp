@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity" />
+    <string name="move_with_data" />
+    <string name="move_with_object" />
+    <string name="data_received" />
+    <string name="halaman_move_activity" />
+    <string name="object_received" />
+    <string name="choose_number" />
+    <string name="_50" />
+    <string name="_100" />
+    <string name="_150" />
+    <string name="_200" />
+    <string name="choose" />
+</resources>
